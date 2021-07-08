@@ -11,4 +11,4 @@ Alguns repositórios interessantes:
 
 [Python-Sudoku-Solver-Using-Backtraking](https://github.com/maiconwa/Python-Sudoku-Solver-Using-Backtraking)
 
--Este projeto é um jogo de Sudoku usando técnicas de backtraking. Este projeto é um fork, ainda há muito a ser feito. Porém, ele pode ser executado com o auxilio de uma IDE.
+-Este projeto é um jogo de Sudoku usando técnicas de backtraking. Ainda há muito a ser feito. Porém, ele pode ser executado com o auxilio de uma IDE.
