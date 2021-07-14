@@ -12,3 +12,7 @@ Alguns repositórios interessantes:
 [Python-Sudoku-Solver-Using-Backtraking](https://github.com/maiconwa/Python-Sudoku-Solver-Using-Backtraking)
 
 -Este projeto é um jogo de Sudoku usando técnicas de backtraking. Ainda há muito a ser feito. Porém, ele pode ser executado com o auxilio de uma IDE.
+
+[Cotacao_com_GUI](https://github.com/maiconwa/Cotacao_com_GUI)
+
+-Aplicativo que verifica as cotações do dolar, euro e bitcoin e retorna os valores em reais por meio de uma interface gráfica.
