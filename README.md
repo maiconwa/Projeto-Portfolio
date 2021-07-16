@@ -2,10 +2,4 @@
 Portfólio de desenvolvedor.
 
 ## Tarefas
-O controle de tarefas está sendo realizado no GitHub.
-
-## Icones
-:mailbox: funcionalidade
-:bulb: atualização
-:bug: bug
-:octocat: release
+O controle de tarefas está sendo realizado no GitHub e hospedado no GitHub pages. Este projeto ainda está em andamento.
